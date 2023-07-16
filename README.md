@@ -5,14 +5,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5584981292851)](https://wa.me/5584981292851)
 
 ### 🧑🏽‍🎓Entusiasta pela qualidade, melhoria, tecnologia e trabalhar com pessoas.
-### 📚 Estudando Cloud, Metodologia agil, Estatística, QlikSense, PowerBI, RStudio, Python, SQL e Habilidades comportamentais
-<div style="display: inline_block"><br/>
-  <img align="center" alt="datacamp" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/>
-  <img align="center" alt="udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-</div><br/>
-
-##  
-![ademarionobre GitHub stats](https://github-readme-stats.vercel.app/api?username=ademarionobre&show_icons=true&theme=merko)
+### 📚 Estudando Cloud, Metodologia ágil, Estatística, Excel, QlikSense, PowerBI, RStudio, Python, SQL e Habilidades comportamentais.
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
@@ -26,7 +19,10 @@
   <img align="center" alt="mysql" src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img align="center" alt="qlik" src="https://github.com/ademarionobre/ademarionobre/assets/92057489/8ff8670f-50ba-432f-8db6-405471014527" width="80px"/>
+  <img align="center" alt="gcp" src ="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </div><br/>
+
+![ademarionobre GitHub stats](https://github-readme-stats.vercel.app/api?username=ademarionobre&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademarionobre&hide_progress=true)](https://github.com/ademarionobre/github-readme-stats)
 
