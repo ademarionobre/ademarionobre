@@ -5,7 +5,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5584981292851)](https://wa.me/5584981292851)
 
 ### 🧑🏽‍🎓Entusiasta pela qualidade, melhoria, tecnologia e trabalhar com pessoas.
-### 📚 Estudando Cloud (AWS, Azure, GCP), Metodologia ágil, Estatística, Excel, QlikSense, PowerBI, RStudio, Python, Pentah, SQL e Habilidades comportamentais.
+### 📚 Estudando Cloud (AWS, Azure, GCP), Metodologia ágil, Estatística, Excel, QlikSense, PowerBI, RStudio, Python, Pentaho, SQL e Habilidades comportamentais.
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
