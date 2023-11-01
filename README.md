@@ -1,4 +1,4 @@
-## Olá! Eu sou Ademário, seja bem vindo! <img src=https://user-images.githubusercontent.com/31570331/115619477-4a629400-a2ca-11eb-9b77-335a74feda93.gif width="30px">
+## Olá! Eu sou Ademário, seja bem vindo(a)! <img src=https://user-images.githubusercontent.com/31570331/115619477-4a629400-a2ca-11eb-9b77-335a74feda93.gif width="30px">
 ### Atuo com gestão da qualidade e análise de dados, adotando ferramentas para analisar e entender processos para a tomada de decisão baseada em dados de forma simples e objetiva.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ademario-nobre)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ademarionobre@gmail.com)](mailto:ademarionobre@gmail.com)
